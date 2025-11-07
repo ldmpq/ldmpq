@@ -1,4 +1,5 @@
 <h1 align="center">I'm Quy Le ✨</h1>
+---
 
 <p>
   I'm an Information Technology student from Vietnam 🇻🇳 <br>
@@ -9,4 +10,4 @@
 - 🌱 I’m currently learning **Mobile Development**
 - 🔭 I’m working on React Native & Typescript projects
 - 📫 Reach me at: **[quyle83kd@gmail.com](mailto:quyle83kd@gmail.com)**
-- 😄 Fun fact: I love music 🎧 and play TFT 
+- 😄 Fun fact: I love music 🎧 and play TFT 🧩
