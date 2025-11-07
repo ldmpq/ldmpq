@@ -6,6 +6,7 @@
 </p>
 
 <hr>
+
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **Mobile Development**
 - 🔭 I’m working on React Native & Typescript projects
