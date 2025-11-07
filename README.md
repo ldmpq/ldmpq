@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">I'm Lê Đại Minh Phú Quý ✨</h1>
 
-<!--
-**ldmpq/ldmpq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm an Information Technology student from Vietnam 🇻🇳 <br>
+</p>
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Mobile Development**
+- 🔭 I’m working on React Native & Typescript projects
+- 📫 Reach me at: **[quyle83kd@gmail.com](mailto:quyle83kd@gmail.com)**
+- 😄 Fun fact: I love music 🎧 and play TFT 
