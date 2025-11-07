@@ -1,6 +1,6 @@
-<h1 align="center">I'm Lê Đại Minh Phú Quý ✨</h1>
+<h1 align="center">I'm Quy Le ✨</h1>
 
-<p align="center">
+<p>
   I'm an Information Technology student from Vietnam 🇻🇳 <br>
 </p>
 ---
