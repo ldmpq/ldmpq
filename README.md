@@ -8,7 +8,7 @@
 <hr>
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Software Development**
 - 🔭 I’m working on React Native & Typescript projects
 - 📫 Reach me at: **[quyle83kd@gmail.com](mailto:quyle83kd@gmail.com)**
-- 😄 Fun fact: I love music 🎧 and play TFT 🧩
+- 😄 Fun fact: I love music and football (or soccer)
